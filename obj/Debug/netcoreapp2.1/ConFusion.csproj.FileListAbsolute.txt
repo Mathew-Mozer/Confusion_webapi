@@ -1,0 +1,14 @@
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/bin/Debug/netcoreapp2.1/ConFusion.deps.json
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/bin/Debug/netcoreapp2.1/ConFusion.runtimeconfig.json
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/bin/Debug/netcoreapp2.1/ConFusion.runtimeconfig.dev.json
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/bin/Debug/netcoreapp2.1/ConFusion.dll
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/bin/Debug/netcoreapp2.1/ConFusion.pdb
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.csprojAssemblyReference.cache
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.RazorAssemblyInfo.cache
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.RazorAssemblyInfo.cs
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.AssemblyInfoInputs.cache
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.AssemblyInfo.cs
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.RazorTargetAssemblyInfo.cache
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.dll
+/Users/admin/Documents/C#/ConFusion/NewConfusion/ConFusion/ConFusion/obj/Debug/netcoreapp2.1/ConFusion.pdb
